@@ -1,0 +1,32 @@
+Concurrency:  Ability to do context-switching running task  to achieve  
+                better Performance
+Parallelism: Doing more than one action AT SAME MOMENT IN TIME BASED ON 
+                HARDWARE AVAILABILIIY
+Learn About Lock-based Syncronization primitives:
+    1. MUTEX
+    2.SEMAPHORE
+    3.RECURSIVE LOCKING
+    4. CONDITIONAL LOCKING
+    5.SCOPE BASED LOCKING
+
+---------------------------------------------------------------------------------------------------------------------
+Algebric data types in Modern cpp
+    -Optional
+    -Variant
+    -any
+
+Learn some BTS optimization techniques
+
+    -guranteed copy elision
+    -constexpr
+
+if & switch initializer:
+
+structure Binding:
+
+---------------------------------------------------------------------------------------------------
+Regarding Systems
+
+!.Memory
+@.Processing Hardware unit
+

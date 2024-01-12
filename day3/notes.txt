@@ -1,0 +1,1 @@
+std::variant main functionalites to lower the dependancy on the virtual functions
